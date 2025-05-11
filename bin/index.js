@@ -13,7 +13,7 @@ async function init() {
   // Fancy header
   console.log(
     boxen(
-      figlet.textSync('BACKEND NODE APP', { horizontalLayout: 'default' }),
+      figlet.textSync('CREATE SERVER STARTER', { horizontalLayout: 'default' }),
       {
         padding: 1,
         borderColor: 'green',

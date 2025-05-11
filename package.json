@@ -1,6 +1,6 @@
 {
   "name": "create-server-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "bin/index.js",
   "type": "module",
   "bin": {
@@ -22,7 +22,7 @@
     "project-generator"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "boxen": "^8.0.1",
