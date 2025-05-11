@@ -1,0 +1,37 @@
+{
+  "name": "create-server-starter",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "type": "module",
+  "bin": {
+    "create-server-starter": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "cli",
+    "scaffolder",
+    "express",
+    "mongoose",
+    "sequelize",
+    "nodejs",
+    "api",
+    "starter",
+    "project-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "execa": "^9.5.3",
+    "figlet": "^1.8.1",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.1",
+    "ora": "^8.2.0",
+    "path": "^0.12.7"
+  }
+}
