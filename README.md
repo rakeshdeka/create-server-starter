@@ -2,6 +2,15 @@
 
 > 🛠️ A simple CLI tool to scaffold a backend NodeJS project with optional MongoDB or PostgreSQL support.
 
+
+## 📦 Installation
+
+```bash
+# Install  using npx
+npx create-server-starter
+
+```
+
 ## ✨ Features
 
 - 🚀 Preconfigured Express.js project structure
@@ -14,13 +23,7 @@
 ---
 
 
-## 📦 Installation
 
-```bash
-# Install  using npx
-npx create-server-starter
-
-```
 
 <!-- ## 🔑 Keywords
 
